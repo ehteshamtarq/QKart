@@ -23,4 +23,4 @@ npm start
 ```
 
 ## Deployment
-[Live]([https://qkart-frontend-ehtesham-tariques-projects.vercel.app/])
+[Live](https://qtrip-dynamic-3ubqygwlc-ehtesham-tariques-projects.vercel.app/)
