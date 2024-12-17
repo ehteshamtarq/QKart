@@ -1,4 +1,4 @@
-# QKart
+# QKart_Frontend
 QKart is an e-commerce application offering a variety of products for customers to choose from. 
 
 During this project
